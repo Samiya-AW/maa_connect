@@ -78,13 +78,3 @@ Many underserved communities face restricted access to network management knowle
 
 3. **Report Issues:**
    - Submit unresolved network problems for further assistance via the built-in feedback system.
-
-
-## Contact 
-
-For questions or feedback, please reach out to us:
-- [name] : [Email] 
--
--
--
--
